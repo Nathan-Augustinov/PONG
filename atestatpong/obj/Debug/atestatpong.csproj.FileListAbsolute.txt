@@ -1,0 +1,306 @@
+d:\documente\visual studio 2013\Projects\atestatpong\atestatpong\bin\Debug\atestatpong.exe.config
+d:\documente\visual studio 2013\Projects\atestatpong\atestatpong\obj\Debug\atestatpong.csprojResolveAssemblyReference.cache
+d:\documente\visual studio 2013\Projects\atestatpong\atestatpong\obj\Debug\atestatpong.Form1.resources
+d:\documente\visual studio 2013\Projects\atestatpong\atestatpong\obj\Debug\atestatpong.Properties.Resources.resources
+d:\documente\visual studio 2013\Projects\atestatpong\atestatpong\obj\Debug\atestatpong.csproj.GenerateResource.Cache
+d:\documente\visual studio 2013\Projects\atestatpong\atestatpong\bin\Debug\atestatpong.exe
+d:\documente\visual studio 2013\Projects\atestatpong\atestatpong\bin\Debug\atestatpong.pdb
+d:\documente\visual studio 2013\Projects\atestatpong\atestatpong\obj\Debug\atestatpong.exe
+d:\documente\visual studio 2013\Projects\atestatpong\atestatpong\obj\Debug\atestatpong.pdb
+d:\documente\visual studio 2013\Projects\atestatpong\atestatpong\obj\Debug\atestatpong.Form2.resources
+D:\Documente\Visual Studio 2013\Projects\atestatpong\atestatpong\obj\Debug\atestatpong.Form3.resources
+C:\Users\hp\Desktop\atestatpong\atestatpong\bin\Debug\atestatpong.exe.config
+C:\Users\hp\Desktop\atestatpong\atestatpong\obj\Debug\atestatpong.exe
+C:\Users\hp\Desktop\atestatpong\atestatpong\obj\Debug\atestatpong.pdb
+C:\Users\hp\Desktop\atestatpong\atestatpong\bin\Debug\atestatpong.exe
+C:\Users\hp\Desktop\atestatpong\atestatpong\bin\Debug\atestatpong.pdb
+C:\Users\hp\Desktop\atestatpong\atestatpong\obj\Debug\atestatpong.csprojResolveAssemblyReference.cache
+C:\Users\hp\Desktop\atestatpong\atestatpong\obj\Debug\atestatpong.Form1.resources
+C:\Users\hp\Desktop\atestatpong\atestatpong\obj\Debug\atestatpong.Form2.resources
+C:\Users\hp\Desktop\atestatpong\atestatpong\obj\Debug\atestatpong.Form3.resources
+C:\Users\hp\Desktop\atestatpong\atestatpong\obj\Debug\atestatpong.Properties.Resources.resources
+C:\Users\hp\Desktop\atestatpong\atestatpong\obj\Debug\atestatpong.csproj.GenerateResource.Cache
+C:\Users\hp\Desktop\atestatpong\atestatpong\obj\Debug\atestatpong.Form4.resources
+C:\Users\hp\Desktop\atestatpong\atestatpong\obj\Debug\atestatpong.Form5.resources
+C:\Users\Andrei\Desktop\atestatpong\atestatpong\bin\Debug\atestatpong.exe.config
+C:\Users\Andrei\Desktop\atestatpong\atestatpong\obj\Debug\atestatpong.exe
+C:\Users\Andrei\Desktop\atestatpong\atestatpong\obj\Debug\atestatpong.pdb
+C:\Users\Andrei\Desktop\atestatpong\atestatpong\bin\Debug\atestatpong.exe
+C:\Users\Andrei\Desktop\atestatpong\atestatpong\bin\Debug\atestatpong.pdb
+C:\Users\Andrei\Desktop\atestatpong\atestatpong\obj\Debug\atestatpong.csprojResolveAssemblyReference.cache
+C:\Users\Andrei\Desktop\atestatpong\atestatpong\obj\Debug\atestatpong.Form1.resources
+C:\Users\Andrei\Desktop\atestatpong\atestatpong\obj\Debug\atestatpong.Form2.resources
+C:\Users\Andrei\Desktop\atestatpong\atestatpong\obj\Debug\atestatpong.Form3.resources
+C:\Users\Andrei\Desktop\atestatpong\atestatpong\obj\Debug\atestatpong.Form4.resources
+C:\Users\Andrei\Desktop\atestatpong\atestatpong\obj\Debug\atestatpong.Form5.resources
+C:\Users\Andrei\Desktop\atestatpong\atestatpong\obj\Debug\atestatpong.Properties.Resources.resources
+C:\Users\Andrei\Desktop\atestatpong\atestatpong\obj\Debug\atestatpong.csproj.GenerateResource.Cache
+C:\Users\Andrei\Desktop\atestatpong\atestatpong\obj\Debug\atestatpong.Form6.resources
+D:\Desktop\atestatpong\atestatpong\bin\Debug\atestatpong.exe.config
+D:\Desktop\atestatpong\atestatpong\obj\Debug\atestatpong.exe
+D:\Desktop\atestatpong\atestatpong\obj\Debug\atestatpong.pdb
+D:\Desktop\atestatpong\atestatpong\bin\Debug\atestatpong.exe
+D:\Desktop\atestatpong\atestatpong\bin\Debug\atestatpong.pdb
+D:\Desktop\atestatpong\atestatpong\obj\Debug\atestatpong.csprojResolveAssemblyReference.cache
+D:\Desktop\atestatpong\atestatpong\obj\Debug\atestatpong.Form1.resources
+D:\Desktop\atestatpong\atestatpong\obj\Debug\atestatpong.Form2.resources
+D:\Desktop\atestatpong\atestatpong\obj\Debug\atestatpong.Form3.resources
+D:\Desktop\atestatpong\atestatpong\obj\Debug\atestatpong.Form4.resources
+D:\Desktop\atestatpong\atestatpong\obj\Debug\atestatpong.Form5.resources
+D:\Desktop\atestatpong\atestatpong\obj\Debug\atestatpong.Form6.resources
+D:\Desktop\atestatpong\atestatpong\obj\Debug\atestatpong.Properties.Resources.resources
+D:\Desktop\atestatpong\atestatpong\obj\Debug\atestatpong.csproj.GenerateResource.Cache
+C:\Users\hp\Desktop\atestatpong\atestatpong\obj\Debug\atestatpong.Form6.resources
+C:\Users\hp\Desktop\atestatpong 19.12\atestatpong\bin\Debug\atestatpong.exe.config
+C:\Users\hp\Desktop\atestatpong 19.12\atestatpong\obj\Debug\atestatpong.exe
+C:\Users\hp\Desktop\atestatpong 19.12\atestatpong\obj\Debug\atestatpong.pdb
+C:\Users\hp\Desktop\atestatpong 19.12\atestatpong\bin\Debug\atestatpong.exe
+C:\Users\hp\Desktop\atestatpong 19.12\atestatpong\bin\Debug\atestatpong.pdb
+C:\Users\hp\Desktop\atestatpong 19.12\atestatpong\obj\Debug\atestatpong.csprojResolveAssemblyReference.cache
+C:\Users\hp\Desktop\atestatpong 19.12\atestatpong\obj\Debug\atestatpong.Form1.resources
+C:\Users\hp\Desktop\atestatpong 19.12\atestatpong\obj\Debug\atestatpong.Form2.resources
+C:\Users\hp\Desktop\atestatpong 19.12\atestatpong\obj\Debug\atestatpong.Form3.resources
+C:\Users\hp\Desktop\atestatpong 19.12\atestatpong\obj\Debug\atestatpong.Form4.resources
+C:\Users\hp\Desktop\atestatpong 19.12\atestatpong\obj\Debug\atestatpong.Form5.resources
+C:\Users\hp\Desktop\atestatpong 19.12\atestatpong\obj\Debug\atestatpong.Form6.resources
+C:\Users\hp\Desktop\atestatpong 19.12\atestatpong\obj\Debug\atestatpong.Properties.Resources.resources
+C:\Users\hp\Desktop\atestatpong 19.12\atestatpong\obj\Debug\atestatpong.csproj.GenerateResource.Cache
+C:\Users\hp\Desktop\atestatpong 20.12\atestatpong\bin\Debug\atestatpong.exe.config
+C:\Users\hp\Desktop\atestatpong 20.12\atestatpong\obj\Debug\atestatpong.exe
+C:\Users\hp\Desktop\atestatpong 20.12\atestatpong\obj\Debug\atestatpong.pdb
+C:\Users\hp\Desktop\atestatpong 20.12\atestatpong\bin\Debug\atestatpong.exe
+C:\Users\hp\Desktop\atestatpong 20.12\atestatpong\bin\Debug\atestatpong.pdb
+C:\Users\hp\Desktop\atestatpong 20.12\atestatpong\obj\Debug\atestatpong.csprojResolveAssemblyReference.cache
+C:\Users\hp\Desktop\atestatpong 20.12\atestatpong\obj\Debug\atestatpong.Form1.resources
+C:\Users\hp\Desktop\atestatpong 20.12\atestatpong\obj\Debug\atestatpong.Form2.resources
+C:\Users\hp\Desktop\atestatpong 20.12\atestatpong\obj\Debug\atestatpong.Form3.resources
+C:\Users\hp\Desktop\atestatpong 20.12\atestatpong\obj\Debug\atestatpong.Form4.resources
+C:\Users\hp\Desktop\atestatpong 20.12\atestatpong\obj\Debug\atestatpong.Form5.resources
+C:\Users\hp\Desktop\atestatpong 20.12\atestatpong\obj\Debug\atestatpong.Form6.resources
+C:\Users\hp\Desktop\atestatpong 20.12\atestatpong\obj\Debug\atestatpong.Properties.Resources.resources
+C:\Users\hp\Desktop\atestatpong 20.12\atestatpong\obj\Debug\atestatpong.csproj.GenerateResource.Cache
+C:\Users\hp\Desktop\atestatpong 28.12\atestatpong\bin\Debug\atestatpong.exe.config
+C:\Users\hp\Desktop\atestatpong 28.12\atestatpong\obj\Debug\atestatpong.exe
+C:\Users\hp\Desktop\atestatpong 28.12\atestatpong\obj\Debug\atestatpong.pdb
+C:\Users\hp\Desktop\atestatpong 28.12\atestatpong\bin\Debug\atestatpong.exe
+C:\Users\hp\Desktop\atestatpong 28.12\atestatpong\bin\Debug\atestatpong.pdb
+C:\Users\hp\Desktop\atestatpong 28.12\atestatpong\obj\Debug\atestatpong.csprojResolveAssemblyReference.cache
+C:\Users\hp\Desktop\atestatpong 28.12\atestatpong\obj\Debug\atestatpong.Form1.resources
+C:\Users\hp\Desktop\atestatpong 28.12\atestatpong\obj\Debug\atestatpong.Form2.resources
+C:\Users\hp\Desktop\atestatpong 28.12\atestatpong\obj\Debug\atestatpong.Form3.resources
+C:\Users\hp\Desktop\atestatpong 28.12\atestatpong\obj\Debug\atestatpong.Form4.resources
+C:\Users\hp\Desktop\atestatpong 28.12\atestatpong\obj\Debug\atestatpong.Form5.resources
+C:\Users\hp\Desktop\atestatpong 28.12\atestatpong\obj\Debug\atestatpong.Form6.resources
+C:\Users\hp\Desktop\atestatpong 28.12\atestatpong\obj\Debug\atestatpong.Properties.Resources.resources
+C:\Users\hp\Desktop\atestatpong 28.12\atestatpong\obj\Debug\atestatpong.csproj.GenerateResource.Cache
+D:\Desktop\atestatpong 28.12\atestatpong\bin\Debug\atestatpong.exe.config
+D:\Desktop\atestatpong 28.12\atestatpong\obj\Debug\atestatpong.exe
+D:\Desktop\atestatpong 28.12\atestatpong\obj\Debug\atestatpong.pdb
+D:\Desktop\atestatpong 28.12\atestatpong\bin\Debug\atestatpong.exe
+D:\Desktop\atestatpong 28.12\atestatpong\bin\Debug\atestatpong.pdb
+D:\Desktop\atestatpong 28.12\atestatpong\obj\Debug\atestatpong.csprojResolveAssemblyReference.cache
+D:\Desktop\atestatpong 28.12\atestatpong\obj\Debug\atestatpong.Form1.resources
+D:\Desktop\atestatpong 28.12\atestatpong\obj\Debug\atestatpong.Form2.resources
+D:\Desktop\atestatpong 28.12\atestatpong\obj\Debug\atestatpong.Form3.resources
+D:\Desktop\atestatpong 28.12\atestatpong\obj\Debug\atestatpong.Form4.resources
+D:\Desktop\atestatpong 28.12\atestatpong\obj\Debug\atestatpong.Form5.resources
+D:\Desktop\atestatpong 28.12\atestatpong\obj\Debug\atestatpong.Form6.resources
+D:\Desktop\atestatpong 28.12\atestatpong\obj\Debug\atestatpong.Properties.Resources.resources
+D:\Desktop\atestatpong 28.12\atestatpong\obj\Debug\atestatpong.csproj.GenerateResource.Cache
+D:\atestat28.03\atestatpong 28.12\atestatpong\bin\Debug\atestatpong.exe.config
+D:\atestat28.03\atestatpong 28.12\atestatpong\obj\Debug\atestatpong.exe
+D:\atestat28.03\atestatpong 28.12\atestatpong\obj\Debug\atestatpong.pdb
+D:\atestat28.03\atestatpong 28.12\atestatpong\bin\Debug\atestatpong.exe
+D:\atestat28.03\atestatpong 28.12\atestatpong\bin\Debug\atestatpong.pdb
+D:\atestat28.03\atestatpong 28.12\atestatpong\obj\Debug\atestatpong.csprojResolveAssemblyReference.cache
+D:\atestat28.03\atestatpong 28.12\atestatpong\obj\Debug\atestatpong.Form1.resources
+D:\atestat28.03\atestatpong 28.12\atestatpong\obj\Debug\atestatpong.Form2.resources
+D:\atestat28.03\atestatpong 28.12\atestatpong\obj\Debug\atestatpong.Form3.resources
+D:\atestat28.03\atestatpong 28.12\atestatpong\obj\Debug\atestatpong.Form4.resources
+D:\atestat28.03\atestatpong 28.12\atestatpong\obj\Debug\atestatpong.Form5.resources
+D:\atestat28.03\atestatpong 28.12\atestatpong\obj\Debug\atestatpong.Form6.resources
+D:\atestat28.03\atestatpong 28.12\atestatpong\obj\Debug\atestatpong.Properties.Resources.resources
+D:\atestat28.03\atestatpong 28.12\atestatpong\obj\Debug\atestatpong.csproj.GenerateResource.Cache
+C:\Users\Andrei\Desktop\atestatpong 28.12\atestatpong\bin\Debug\atestatpong.exe.config
+C:\Users\Andrei\Desktop\atestatpong 28.12\atestatpong\obj\Debug\atestatpong.exe
+C:\Users\Andrei\Desktop\atestatpong 28.12\atestatpong\obj\Debug\atestatpong.pdb
+C:\Users\hp\Desktop\atestatpong 28.03MEDIU+HARD\atestatpong 28.12\atestatpong\bin\Debug\atestatpong.exe.config
+C:\Users\hp\Desktop\atestatpong 28.03MEDIU+HARD\atestatpong 28.12\atestatpong\obj\Debug\atestatpong.exe
+C:\Users\hp\Desktop\atestatpong 28.03MEDIU+HARD\atestatpong 28.12\atestatpong\obj\Debug\atestatpong.pdb
+C:\Users\hp\Desktop\atestatpong 28.03MEDIU+HARD\atestatpong 28.12\atestatpong\obj\Debug\atestatpong.csprojResolveAssemblyReference.cache
+C:\Users\hp\Desktop\atestatpong 28.03MEDIU+HARD\atestatpong 28.12\atestatpong\obj\Debug\atestatpong.Form1.resources
+C:\Users\hp\Desktop\atestatpong 28.03MEDIU+HARD\atestatpong 28.12\atestatpong\obj\Debug\atestatpong.Form2.resources
+C:\Users\hp\Desktop\atestatpong 28.03MEDIU+HARD\atestatpong 28.12\atestatpong\obj\Debug\atestatpong.Form3.resources
+C:\Users\hp\Desktop\atestatpong 28.03MEDIU+HARD\atestatpong 28.12\atestatpong\obj\Debug\atestatpong.Form4.resources
+C:\Users\hp\Desktop\atestatpong 28.03MEDIU+HARD\atestatpong 28.12\atestatpong\obj\Debug\atestatpong.Form5.resources
+C:\Users\hp\Desktop\atestatpong 28.03MEDIU+HARD\atestatpong 28.12\atestatpong\obj\Debug\atestatpong.Form6.resources
+C:\Users\hp\Desktop\atestatpong 28.03MEDIU+HARD\atestatpong 28.12\atestatpong\obj\Debug\atestatpong.Properties.Resources.resources
+C:\Users\hp\Desktop\atestatpong 28.03MEDIU+HARD\atestatpong 28.12\atestatpong\obj\Debug\atestatpong.csproj.GenerateResource.Cache
+C:\Users\hp\Desktop\atestatpong 28.03MEDIU+HARD\atestatpong 28.12\atestatpong\bin\Debug\atestatpong.exe
+C:\Users\hp\Desktop\atestatpong 28.03MEDIU+HARD\atestatpong 28.12\atestatpong\bin\Debug\atestatpong.pdb
+C:\Users\hp\Desktop\atestatpong 28.03MEDIU+HARD\atestatpong 28.12\atestatpong\bin\Debug\Interop.WMPLib.dll
+C:\Users\hp\Desktop\atestatpong 28.03MEDIU+HARD\atestatpong 28.12\atestatpong\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\hp\Desktop\atestatpong 28.03MEDIU+HARD\atestatpong 28.12\atestatpong\obj\Debug\Interop.WMPLib.dll
+C:\Users\hp\Desktop\atestatpong 28.03MEDIU+HARD\atestatpong 28.12\atestatpong\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\hp\Desktop\atestatpong 28.03MEDIU+HARD\atestatpong 28.12\atestatpong\obj\Debug\atestatpong.csproj.ResolveComReference.cache
+D:\Desktop\atestatpong 29.03\atestatpong 29.03\atestatpong 28.12\atestatpong\bin\Debug\atestatpong.exe.config
+D:\Desktop\atestatpong 29.03\atestatpong 29.03\atestatpong 28.12\atestatpong\obj\Debug\Interop.WMPLib.dll
+D:\Desktop\atestatpong 29.03\atestatpong 29.03\atestatpong 28.12\atestatpong\obj\Debug\AxInterop.WMPLib.dll
+D:\Desktop\atestatpong 29.03\atestatpong 29.03\atestatpong 28.12\atestatpong\obj\Debug\atestatpong.csproj.ResolveComReference.cache
+D:\Desktop\atestatpong 29.03\atestatpong 29.03\atestatpong 28.12\atestatpong\obj\Debug\atestatpong.exe
+D:\Desktop\atestatpong 29.03\atestatpong 29.03\atestatpong 28.12\atestatpong\obj\Debug\atestatpong.pdb
+D:\Desktop\atestatpong 29.03\atestatpong 29.03\atestatpong 28.12\atestatpong\bin\Debug\atestatpong.exe
+D:\Desktop\atestatpong 29.03\atestatpong 29.03\atestatpong 28.12\atestatpong\bin\Debug\atestatpong.pdb
+D:\Desktop\atestatpong 29.03\atestatpong 29.03\atestatpong 28.12\atestatpong\bin\Debug\Interop.WMPLib.dll
+D:\Desktop\atestatpong 29.03\atestatpong 29.03\atestatpong 28.12\atestatpong\bin\Debug\AxInterop.WMPLib.dll
+D:\Desktop\atestatpong 29.03\atestatpong 29.03\atestatpong 28.12\atestatpong\obj\Debug\atestatpong.csprojResolveAssemblyReference.cache
+D:\Desktop\atestatpong 29.03\atestatpong 29.03\atestatpong 28.12\atestatpong\obj\Debug\atestatpong.Form1.resources
+D:\Desktop\atestatpong 29.03\atestatpong 29.03\atestatpong 28.12\atestatpong\obj\Debug\atestatpong.Form2.resources
+D:\Desktop\atestatpong 29.03\atestatpong 29.03\atestatpong 28.12\atestatpong\obj\Debug\atestatpong.Form3.resources
+D:\Desktop\atestatpong 29.03\atestatpong 29.03\atestatpong 28.12\atestatpong\obj\Debug\atestatpong.Form4.resources
+D:\Desktop\atestatpong 29.03\atestatpong 29.03\atestatpong 28.12\atestatpong\obj\Debug\atestatpong.Form5.resources
+D:\Desktop\atestatpong 29.03\atestatpong 29.03\atestatpong 28.12\atestatpong\obj\Debug\atestatpong.Form6.resources
+D:\Desktop\atestatpong 29.03\atestatpong 29.03\atestatpong 28.12\atestatpong\obj\Debug\atestatpong.Properties.Resources.resources
+D:\Desktop\atestatpong 29.03\atestatpong 29.03\atestatpong 28.12\atestatpong\obj\Debug\atestatpong.csproj.GenerateResource.Cache
+C:\Users\Andrei\Desktop\atestatpong 29.03\atestatpong 29.03\atestatpong 28.12\atestatpong\bin\Debug\atestatpong.exe.config
+C:\Users\Andrei\Desktop\atestatpong 29.03\atestatpong 29.03\atestatpong 28.12\atestatpong\obj\Debug\Interop.WMPLib.dll
+C:\Users\Andrei\Desktop\atestatpong 29.03\atestatpong 29.03\atestatpong 28.12\atestatpong\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Andrei\Desktop\atestatpong 29.03\atestatpong 29.03\atestatpong 28.12\atestatpong\obj\Debug\atestatpong.csproj.ResolveComReference.cache
+C:\Users\Andrei\Desktop\atestatpong 29.03\atestatpong 29.03\atestatpong 28.12\atestatpong\obj\Debug\atestatpong.exe
+C:\Users\Andrei\Desktop\atestatpong 29.03\atestatpong 29.03\atestatpong 28.12\atestatpong\obj\Debug\atestatpong.pdb
+C:\Users\Andrei\Desktop\atestatpong 29.03\atestatpong 29.03\atestatpong 28.12\atestatpong\bin\Debug\atestatpong.exe
+C:\Users\Andrei\Desktop\atestatpong 29.03\atestatpong 29.03\atestatpong 28.12\atestatpong\bin\Debug\atestatpong.pdb
+C:\Users\Andrei\Desktop\atestatpong 29.03\atestatpong 29.03\atestatpong 28.12\atestatpong\bin\Debug\Interop.WMPLib.dll
+C:\Users\Andrei\Desktop\atestatpong 29.03\atestatpong 29.03\atestatpong 28.12\atestatpong\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Andrei\Desktop\atestatpong 29.03\atestatpong 29.03\atestatpong 28.12\atestatpong\obj\Debug\atestatpong.csprojResolveAssemblyReference.cache
+C:\Users\Andrei\Desktop\atestatpong 29.03\atestatpong 29.03\atestatpong 28.12\atestatpong\obj\Debug\atestatpong.Form1.resources
+C:\Users\Andrei\Desktop\atestatpong 29.03\atestatpong 29.03\atestatpong 28.12\atestatpong\obj\Debug\atestatpong.Form2.resources
+C:\Users\Andrei\Desktop\atestatpong 29.03\atestatpong 29.03\atestatpong 28.12\atestatpong\obj\Debug\atestatpong.Form3.resources
+C:\Users\Andrei\Desktop\atestatpong 29.03\atestatpong 29.03\atestatpong 28.12\atestatpong\obj\Debug\atestatpong.Form4.resources
+C:\Users\Andrei\Desktop\atestatpong 29.03\atestatpong 29.03\atestatpong 28.12\atestatpong\obj\Debug\atestatpong.Form5.resources
+C:\Users\Andrei\Desktop\atestatpong 29.03\atestatpong 29.03\atestatpong 28.12\atestatpong\obj\Debug\atestatpong.Form6.resources
+C:\Users\Andrei\Desktop\atestatpong 29.03\atestatpong 29.03\atestatpong 28.12\atestatpong\obj\Debug\atestatpong.Properties.Resources.resources
+C:\Users\Andrei\Desktop\atestatpong 29.03\atestatpong 29.03\atestatpong 28.12\atestatpong\obj\Debug\atestatpong.csproj.GenerateResource.Cache
+C:\Users\Andrei\Desktop\atestatpong 29.03\atestatpong 29.03\atestatpong 28.12\atestatpong\obj\Debug\atestatpong.Form7.resources
+D:\Desktop\atestatpong 2.04NEW\atestatpong 29.03\atestatpong 29.03\atestatpong 28.12\atestatpong\bin\Debug\atestatpong.exe.config
+D:\Desktop\atestatpong 2.04NEW\atestatpong 29.03\atestatpong 29.03\atestatpong 28.12\atestatpong\obj\Debug\Interop.WMPLib.dll
+D:\Desktop\atestatpong 2.04NEW\atestatpong 29.03\atestatpong 29.03\atestatpong 28.12\atestatpong\obj\Debug\AxInterop.WMPLib.dll
+D:\Desktop\atestatpong 2.04NEW\atestatpong 29.03\atestatpong 29.03\atestatpong 28.12\atestatpong\obj\Debug\atestatpong.csproj.ResolveComReference.cache
+D:\Desktop\atestatpong 2.04NEW\atestatpong 29.03\atestatpong 29.03\atestatpong 28.12\atestatpong\obj\Debug\atestatpong.exe
+D:\Desktop\atestatpong 2.04NEW\atestatpong 29.03\atestatpong 29.03\atestatpong 28.12\atestatpong\obj\Debug\atestatpong.pdb
+D:\Desktop\atestatpong 2.04NEW\atestatpong 29.03\atestatpong 29.03\atestatpong 28.12\atestatpong\bin\Debug\atestatpong.exe
+D:\Desktop\atestatpong 2.04NEW\atestatpong 29.03\atestatpong 29.03\atestatpong 28.12\atestatpong\bin\Debug\atestatpong.pdb
+D:\Desktop\atestatpong 2.04NEW\atestatpong 29.03\atestatpong 29.03\atestatpong 28.12\atestatpong\bin\Debug\Interop.WMPLib.dll
+D:\Desktop\atestatpong 2.04NEW\atestatpong 29.03\atestatpong 29.03\atestatpong 28.12\atestatpong\bin\Debug\AxInterop.WMPLib.dll
+D:\Desktop\atestatpong 2.04NEW\atestatpong 29.03\atestatpong 29.03\atestatpong 28.12\atestatpong\obj\Debug\atestatpong.csprojResolveAssemblyReference.cache
+D:\Desktop\atestatpong 2.04NEW\atestatpong 29.03\atestatpong 29.03\atestatpong 28.12\atestatpong\obj\Debug\atestatpong.Form1.resources
+D:\Desktop\atestatpong 2.04NEW\atestatpong 29.03\atestatpong 29.03\atestatpong 28.12\atestatpong\obj\Debug\atestatpong.Form2.resources
+D:\Desktop\atestatpong 2.04NEW\atestatpong 29.03\atestatpong 29.03\atestatpong 28.12\atestatpong\obj\Debug\atestatpong.Form3.resources
+D:\Desktop\atestatpong 2.04NEW\atestatpong 29.03\atestatpong 29.03\atestatpong 28.12\atestatpong\obj\Debug\atestatpong.Form4.resources
+D:\Desktop\atestatpong 2.04NEW\atestatpong 29.03\atestatpong 29.03\atestatpong 28.12\atestatpong\obj\Debug\atestatpong.Form5.resources
+D:\Desktop\atestatpong 2.04NEW\atestatpong 29.03\atestatpong 29.03\atestatpong 28.12\atestatpong\obj\Debug\atestatpong.Form6.resources
+D:\Desktop\atestatpong 2.04NEW\atestatpong 29.03\atestatpong 29.03\atestatpong 28.12\atestatpong\obj\Debug\atestatpong.Form7.resources
+D:\Desktop\atestatpong 2.04NEW\atestatpong 29.03\atestatpong 29.03\atestatpong 28.12\atestatpong\obj\Debug\atestatpong.Form8.resources
+D:\Desktop\atestatpong 2.04NEW\atestatpong 29.03\atestatpong 29.03\atestatpong 28.12\atestatpong\obj\Debug\atestatpong.Properties.Resources.resources
+D:\Desktop\atestatpong 2.04NEW\atestatpong 29.03\atestatpong 29.03\atestatpong 28.12\atestatpong\obj\Debug\atestatpong.csproj.GenerateResource.Cache
+D:\Desktop\atestatpong 2.04NEW\atestatpong 29.03\atestatpong 29.03\atestatpong 28.12\atestatpong\obj\Debug\atestatpong.Form9.resources
+D:\Desktop\atestatform9 08.04\atestatpong\bin\Debug\atestatpong.exe.config
+D:\Desktop\atestatform9 08.04\atestatpong\obj\Debug\Interop.WMPLib.dll
+D:\Desktop\atestatform9 08.04\atestatpong\obj\Debug\AxInterop.WMPLib.dll
+D:\Desktop\atestatform9 08.04\atestatpong\obj\Debug\atestatpong.csproj.ResolveComReference.cache
+D:\Desktop\atestatform9 08.04\atestatpong\obj\Debug\atestatpong.exe
+D:\Desktop\atestatform9 08.04\atestatpong\obj\Debug\atestatpong.pdb
+C:\Users\Andrei\Desktop\atestatform9 08.04\atestatform9 08.04\atestatpong\bin\Debug\atestatpong.exe.config
+C:\Users\Andrei\Desktop\atestatform9 08.04\atestatform9 08.04\atestatpong\obj\Debug\Interop.WMPLib.dll
+C:\Users\Andrei\Desktop\atestatform9 08.04\atestatform9 08.04\atestatpong\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Andrei\Desktop\atestatform9 08.04\atestatform9 08.04\atestatpong\obj\Debug\atestatpong.csproj.ResolveComReference.cache
+C:\Users\Andrei\Desktop\atestatform9 08.04\atestatform9 08.04\atestatpong\obj\Debug\atestatpong.exe
+C:\Users\Andrei\Desktop\atestatform9 08.04\atestatform9 08.04\atestatpong\obj\Debug\atestatpong.pdb
+C:\Users\Andrei\Desktop\atestatform9 08.04\atestatform9 08.04\atestatpong\bin\Debug\atestatpong.exe
+C:\Users\Andrei\Desktop\atestatform9 08.04\atestatform9 08.04\atestatpong\bin\Debug\atestatpong.pdb
+C:\Users\Andrei\Desktop\atestatform9 08.04\atestatform9 08.04\atestatpong\bin\Debug\Interop.WMPLib.dll
+C:\Users\Andrei\Desktop\atestatform9 08.04\atestatform9 08.04\atestatpong\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Andrei\Desktop\atestatform9 08.04\atestatform9 08.04\atestatpong\obj\Debug\atestatpong.csprojResolveAssemblyReference.cache
+C:\Users\Andrei\Desktop\atestatform9 08.04\atestatform9 08.04\atestatpong\obj\Debug\atestatpong.Form1.resources
+C:\Users\Andrei\Desktop\atestatform9 08.04\atestatform9 08.04\atestatpong\obj\Debug\atestatpong.Form2.resources
+C:\Users\Andrei\Desktop\atestatform9 08.04\atestatform9 08.04\atestatpong\obj\Debug\atestatpong.Form3.resources
+C:\Users\Andrei\Desktop\atestatform9 08.04\atestatform9 08.04\atestatpong\obj\Debug\atestatpong.Form4.resources
+C:\Users\Andrei\Desktop\atestatform9 08.04\atestatform9 08.04\atestatpong\obj\Debug\atestatpong.Form5.resources
+C:\Users\Andrei\Desktop\atestatform9 08.04\atestatform9 08.04\atestatpong\obj\Debug\atestatpong.Form6.resources
+C:\Users\Andrei\Desktop\atestatform9 08.04\atestatform9 08.04\atestatpong\obj\Debug\atestatpong.Form7.resources
+C:\Users\Andrei\Desktop\atestatform9 08.04\atestatform9 08.04\atestatpong\obj\Debug\atestatpong.Form8.resources
+C:\Users\Andrei\Desktop\atestatform9 08.04\atestatform9 08.04\atestatpong\obj\Debug\atestatpong.Form9.resources
+C:\Users\Andrei\Desktop\atestatform9 08.04\atestatform9 08.04\atestatpong\obj\Debug\atestatpong.Properties.Resources.resources
+C:\Users\Andrei\Desktop\atestatform9 08.04\atestatform9 08.04\atestatpong\obj\Debug\atestatpong.csproj.GenerateResource.Cache
+C:\Users\Andrei\Desktop\atestatform9 08.04\atestatform9 08.04\atestatpong\obj\Debug\atestatpong.Form10.resources
+C:\Users\hp\Desktop\atestatform9 08.04\atestatform9 08.04\atestatform9 08.04\atestatform9 08.04\atestatpong\bin\Debug\atestatpong.exe.config
+C:\Users\hp\Desktop\atestatform9 08.04\atestatform9 08.04\atestatform9 08.04\atestatform9 08.04\atestatpong\obj\Debug\Interop.WMPLib.dll
+C:\Users\hp\Desktop\atestatform9 08.04\atestatform9 08.04\atestatform9 08.04\atestatform9 08.04\atestatpong\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\hp\Desktop\atestatform9 08.04\atestatform9 08.04\atestatform9 08.04\atestatform9 08.04\atestatpong\obj\Debug\atestatpong.csproj.ResolveComReference.cache
+C:\Users\hp\Desktop\atestatform9 08.04\atestatform9 08.04\atestatform9 08.04\atestatform9 08.04\atestatpong\obj\Debug\atestatpong.exe
+C:\Users\hp\Desktop\atestatform9 08.04\atestatform9 08.04\atestatform9 08.04\atestatform9 08.04\atestatpong\obj\Debug\atestatpong.pdb
+C:\Users\hp\Desktop\atestatform9 08.04\atestatform9 08.04\atestatform9 08.04\atestatform9 08.04\atestatpong\bin\Debug\atestatpong.exe
+C:\Users\hp\Desktop\atestatform9 08.04\atestatform9 08.04\atestatform9 08.04\atestatform9 08.04\atestatpong\bin\Debug\atestatpong.pdb
+C:\Users\hp\Desktop\atestatform9 08.04\atestatform9 08.04\atestatform9 08.04\atestatform9 08.04\atestatpong\bin\Debug\Interop.WMPLib.dll
+C:\Users\hp\Desktop\atestatform9 08.04\atestatform9 08.04\atestatform9 08.04\atestatform9 08.04\atestatpong\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\hp\Desktop\atestatform9 08.04\atestatform9 08.04\atestatform9 08.04\atestatform9 08.04\atestatpong\obj\Debug\atestatpong.csprojResolveAssemblyReference.cache
+C:\Users\hp\Desktop\atestatform9 08.04\atestatform9 08.04\atestatform9 08.04\atestatform9 08.04\atestatpong\obj\Debug\atestatpong.Form1.resources
+C:\Users\hp\Desktop\atestatform9 08.04\atestatform9 08.04\atestatform9 08.04\atestatform9 08.04\atestatpong\obj\Debug\atestatpong.Form10.resources
+C:\Users\hp\Desktop\atestatform9 08.04\atestatform9 08.04\atestatform9 08.04\atestatform9 08.04\atestatpong\obj\Debug\atestatpong.Form2.resources
+C:\Users\hp\Desktop\atestatform9 08.04\atestatform9 08.04\atestatform9 08.04\atestatform9 08.04\atestatpong\obj\Debug\atestatpong.Form3.resources
+C:\Users\hp\Desktop\atestatform9 08.04\atestatform9 08.04\atestatform9 08.04\atestatform9 08.04\atestatpong\obj\Debug\atestatpong.Form4.resources
+C:\Users\hp\Desktop\atestatform9 08.04\atestatform9 08.04\atestatform9 08.04\atestatform9 08.04\atestatpong\obj\Debug\atestatpong.Form5.resources
+C:\Users\hp\Desktop\atestatform9 08.04\atestatform9 08.04\atestatform9 08.04\atestatform9 08.04\atestatpong\obj\Debug\atestatpong.Form6.resources
+C:\Users\hp\Desktop\atestatform9 08.04\atestatform9 08.04\atestatform9 08.04\atestatform9 08.04\atestatpong\obj\Debug\atestatpong.Form7.resources
+C:\Users\hp\Desktop\atestatform9 08.04\atestatform9 08.04\atestatform9 08.04\atestatform9 08.04\atestatpong\obj\Debug\atestatpong.Form8.resources
+C:\Users\hp\Desktop\atestatform9 08.04\atestatform9 08.04\atestatform9 08.04\atestatform9 08.04\atestatpong\obj\Debug\atestatpong.Form9.resources
+C:\Users\hp\Desktop\atestatform9 08.04\atestatform9 08.04\atestatform9 08.04\atestatform9 08.04\atestatpong\obj\Debug\atestatpong.Properties.Resources.resources
+C:\Users\hp\Desktop\atestatform9 08.04\atestatform9 08.04\atestatform9 08.04\atestatform9 08.04\atestatpong\obj\Debug\atestatpong.csproj.GenerateResource.Cache
+C:\Users\elisa\Desktop\PONG\PONG\atestatpong\bin\Debug\atestatpong.exe.config
+C:\Users\elisa\Desktop\PONG\PONG\atestatpong\bin\Debug\atestatpong.exe
+C:\Users\elisa\Desktop\PONG\PONG\atestatpong\bin\Debug\atestatpong.pdb
+C:\Users\elisa\Desktop\PONG\PONG\atestatpong\bin\Debug\Interop.WMPLib.dll
+C:\Users\elisa\Desktop\PONG\PONG\atestatpong\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\elisa\Desktop\PONG\PONG\atestatpong\obj\Debug\atestatpong.csprojResolveAssemblyReference.cache
+C:\Users\elisa\Desktop\PONG\PONG\atestatpong\obj\Debug\Interop.WMPLib.dll
+C:\Users\elisa\Desktop\PONG\PONG\atestatpong\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\elisa\Desktop\PONG\PONG\atestatpong\obj\Debug\atestatpong.csproj.ResolveComReference.cache
+C:\Users\elisa\Desktop\PONG\PONG\atestatpong\obj\Debug\atestatpong.Form1.resources
+C:\Users\elisa\Desktop\PONG\PONG\atestatpong\obj\Debug\atestatpong.Form10.resources
+C:\Users\elisa\Desktop\PONG\PONG\atestatpong\obj\Debug\atestatpong.Form2.resources
+C:\Users\elisa\Desktop\PONG\PONG\atestatpong\obj\Debug\atestatpong.Form3.resources
+C:\Users\elisa\Desktop\PONG\PONG\atestatpong\obj\Debug\atestatpong.Form4.resources
+C:\Users\elisa\Desktop\PONG\PONG\atestatpong\obj\Debug\atestatpong.Form5.resources
+C:\Users\elisa\Desktop\PONG\PONG\atestatpong\obj\Debug\atestatpong.Form6.resources
+C:\Users\elisa\Desktop\PONG\PONG\atestatpong\obj\Debug\atestatpong.Form7.resources
+C:\Users\elisa\Desktop\PONG\PONG\atestatpong\obj\Debug\atestatpong.Form8.resources
+C:\Users\elisa\Desktop\PONG\PONG\atestatpong\obj\Debug\atestatpong.Form9.resources
+C:\Users\elisa\Desktop\PONG\PONG\atestatpong\obj\Debug\atestatpong.Properties.Resources.resources
+C:\Users\elisa\Desktop\PONG\PONG\atestatpong\obj\Debug\atestatpong.csproj.GenerateResource.Cache
+C:\Users\elisa\Desktop\PONG\PONG\atestatpong\obj\Debug\atestatpong.csproj.CoreCompileInputs.cache
+C:\Users\elisa\Desktop\PONG\PONG\atestatpong\obj\Debug\atestatpong.exe
+C:\Users\elisa\Desktop\PONG\PONG\atestatpong\obj\Debug\atestatpong.pdb
+E:\desktop 14.05.2019 elisabeth\Nathan\PONG\PONG\atestatpong\bin\Debug\atestatpong.exe.config
+E:\desktop 14.05.2019 elisabeth\Nathan\PONG\PONG\atestatpong\bin\Debug\atestatpong.exe
+E:\desktop 14.05.2019 elisabeth\Nathan\PONG\PONG\atestatpong\bin\Debug\atestatpong.pdb
+E:\desktop 14.05.2019 elisabeth\Nathan\PONG\PONG\atestatpong\bin\Debug\Interop.WMPLib.dll
+E:\desktop 14.05.2019 elisabeth\Nathan\PONG\PONG\atestatpong\bin\Debug\AxInterop.WMPLib.dll
+E:\desktop 14.05.2019 elisabeth\Nathan\PONG\PONG\atestatpong\obj\Debug\atestatpong.csprojAssemblyReference.cache
+E:\desktop 14.05.2019 elisabeth\Nathan\PONG\PONG\atestatpong\obj\Debug\Interop.WMPLib.dll
+E:\desktop 14.05.2019 elisabeth\Nathan\PONG\PONG\atestatpong\obj\Debug\AxInterop.WMPLib.dll
+E:\desktop 14.05.2019 elisabeth\Nathan\PONG\PONG\atestatpong\obj\Debug\atestatpong.csproj.ResolveComReference.cache
+E:\desktop 14.05.2019 elisabeth\Nathan\PONG\PONG\atestatpong\obj\Debug\atestatpong.Form1.resources
+E:\desktop 14.05.2019 elisabeth\Nathan\PONG\PONG\atestatpong\obj\Debug\atestatpong.Form10.resources
+E:\desktop 14.05.2019 elisabeth\Nathan\PONG\PONG\atestatpong\obj\Debug\atestatpong.Form2.resources
+E:\desktop 14.05.2019 elisabeth\Nathan\PONG\PONG\atestatpong\obj\Debug\atestatpong.Form3.resources
+E:\desktop 14.05.2019 elisabeth\Nathan\PONG\PONG\atestatpong\obj\Debug\atestatpong.Form4.resources
+E:\desktop 14.05.2019 elisabeth\Nathan\PONG\PONG\atestatpong\obj\Debug\atestatpong.Form5.resources
+E:\desktop 14.05.2019 elisabeth\Nathan\PONG\PONG\atestatpong\obj\Debug\atestatpong.Form6.resources
+E:\desktop 14.05.2019 elisabeth\Nathan\PONG\PONG\atestatpong\obj\Debug\atestatpong.Form7.resources
+E:\desktop 14.05.2019 elisabeth\Nathan\PONG\PONG\atestatpong\obj\Debug\atestatpong.Form8.resources
+E:\desktop 14.05.2019 elisabeth\Nathan\PONG\PONG\atestatpong\obj\Debug\atestatpong.Form9.resources
+E:\desktop 14.05.2019 elisabeth\Nathan\PONG\PONG\atestatpong\obj\Debug\atestatpong.Properties.Resources.resources
+E:\desktop 14.05.2019 elisabeth\Nathan\PONG\PONG\atestatpong\obj\Debug\atestatpong.csproj.GenerateResource.cache
+E:\desktop 14.05.2019 elisabeth\Nathan\PONG\PONG\atestatpong\obj\Debug\atestatpong.csproj.CoreCompileInputs.cache
+E:\desktop 14.05.2019 elisabeth\Nathan\PONG\PONG\atestatpong\obj\Debug\atestatpong.exe
+E:\desktop 14.05.2019 elisabeth\Nathan\PONG\PONG\atestatpong\obj\Debug\atestatpong.pdb
